@@ -30,6 +30,7 @@
 
 #pragma once
 
+#include "ofMain.h"
 #include "ofConstants.h"
 
 /// \class ofxCsvRow
